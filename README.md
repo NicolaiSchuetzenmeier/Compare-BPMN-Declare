@@ -1,1 +1,1 @@
-# Comparison-BPMN-model-Declare-model
+# Comparison BPMN models and Declare models
