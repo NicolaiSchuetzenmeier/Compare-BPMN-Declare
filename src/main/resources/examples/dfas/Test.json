@@ -1,0 +1,7 @@
+{
+"States": ["0", "1", "2", "3", "4"],
+"Alphabet": ["a", "b", "c", "d", "e"],
+"TransitionFunction": [["0", "a", "1"], ["0", "b", "2"], ["1", "a", "3"], ["2", "a", "3"], ["4", "d", "4"]],
+"StartState": "0",
+"AcceptingStates": ["3"]
+}

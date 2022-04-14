@@ -1,0 +1,7 @@
+{
+"States": ["q0","q1","q2","t"],
+"Alphabet": ["a", "b", "c"],
+"TransitionFunction": [["q0","a","q1"],["q0","b","t"],["q1","a","t"],["q1","b","t"],["t","a","t"],["t","b","t"],["q0","c","q2"],["q1","c","q2"],["t","c","t"],["q2","a","q0"],["q2","b","q2"],["q2","c","q1"]],
+"StartState": "q0",
+"AcceptingStates": ["q1"]
+}
