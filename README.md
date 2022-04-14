@@ -2,7 +2,7 @@
 
 > Since the advent of so-called declarative process modeling languages in addition to the previously known imperative languages, the business process management community has been confronted with a lot of new possibilities and challenges regarding modeling  and interpreting business processes. In general, these declarative languages are better suited for flexible processes, i.e. processes which lead a lot of open decisions to the model executor and hence have got a relatively large amount of execution paths, whereas imperative languages are mainly used to formalize routine processes. Of course, the question arises whether a declarative or an imperative approach fits better for a specific application. In this paper we handle this issue and present a method based on automata theory, which supports the process modeler in making this decision. Furthermore, we present a comparison method which makes it possible to check given imperative and declarative process models for equality. We finally evaluate our approach by implementing a Java tool and calculating practical examples.
 
-*Excerpt from the paper "Comparing the expressiveness of Declare Process Models" (currently under review)*
+*Excerpt from the paper "Comparing Imperative and Declarative Process Models" (currently under review)*
 
 ## Usage
 
