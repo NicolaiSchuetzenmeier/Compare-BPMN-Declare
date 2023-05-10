@@ -58,7 +58,7 @@ If you use this tool in your paper, please cite the following paper:
 @article{schuetzenmeier-2023-cdm,
     title = "Comparing Imperative and Declarative Process Models",
     author = "Sch\"{u}tzenmeier, Nicolai and Jablonski, Stefan and
-        K\"{a}ppel, Martin and Jablonski, Stefan and 
+        K\"{a}ppel, Martin and 
         Ackermann, Lars",
     year = "Currently under review"
 }
